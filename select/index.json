@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Dancers Anthem (2021 Remaster)",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T09:27:06.538039Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dancers Anthem",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_Dancers_Anthem_Hilcrhyme.txt"
+    }
+  ]
+}
